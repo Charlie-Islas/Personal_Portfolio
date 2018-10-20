@@ -1,10 +1,9 @@
 /* your styles go here */
 .preview{
-    width:320px;
+    width:360px;
     height:185px;
 }
 
-data-images{
-
-    width:20px;
+.main-footer{
+background-color:red;
 }
